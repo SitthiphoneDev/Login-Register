@@ -38,5 +38,5 @@
 
 
 ## Firebase
-<img src="https://github.com/SitthiphoneDev/Login-Register/blob/main/images/Firebase.png" width="200"/>
+![](https://github.com/SitthiphoneDev/Login-Register/blob/main/images/Firebase.png)
 
