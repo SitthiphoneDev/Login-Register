@@ -1,8 +1,6 @@
-# login
+##  ໂປຣແກຣມ Login & Register ໂດຍນຳໃຊ້ Firebase
 
-A new Flutter project.
+ໂປຣແກຣມ Login & Register ຂຽນໂດຍນຳໃຊ້ Flutter (Dart) ແລະ Firebase
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
+## **Login**
+![Login](https://github.com/SitthiphoneDev/Login-Register/blob/main/images/login.png)
