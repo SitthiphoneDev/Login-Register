@@ -4,4 +4,4 @@
 ໂປຣແກຣມ Login & Register ຂຽນໂດຍນຳໃຊ້ Flutter (Dart) ແລະ Firebase
 
 ## **Login**
-<img src="https://github.com/SitthiphoneDev/Login-Register/blob/main/images/login.png" alt="Login" width="200"/>
+<img src="https://github.com/SitthiphoneDev/Login-Register/blob/main/images/login.png" alt="Login" width="400"/>
