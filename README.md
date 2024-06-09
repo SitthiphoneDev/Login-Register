@@ -1,7 +1,7 @@
 
 ## ໂປຣແກຣມ Login & Register ໂດຍນຳໃຊ້ Firebase
 
-ໂປຣແກຣມ Login & Register ຂຽນໂດຍນຳໃຊ້ Flutter (Dart) ແລະ Firebase
+ໂປຣແກຣມ Login & Register ຂຽນໂດຍນຳໃຊ້ Flutter (Dart) ແລະ ນຳໃຊ້ Firebase Cloud
 
 ## Login
 <img src="https://github.com/SitthiphoneDev/Login-Register/blob/main/images/login.png" width="200"/>
